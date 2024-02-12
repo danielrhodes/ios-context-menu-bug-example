@@ -1,4 +1,6 @@
+Ejected expo app.
+
+```
 npm install
 npx expo start --clear
-
-and run ios project
+```
